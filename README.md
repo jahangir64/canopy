@@ -15,7 +15,7 @@ _Official golang implementation of the Canopy Network Protocol_
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos-white.svg)](https://github.com/canopy-network/canopy/releases)
 [![Status](https://img.shields.io/badge/status-alphanet-white)](https://docs.docker.com/compose/)
 
-### ⫸ **Welcome to the Network that Powers the Peer-to-Peer Launchpad for New Chains**
+### ⫸ **Welcome to the Network that Powers the Peer-to-Peer Launchpad for New Chains**,
 
 Built on a recursive architecture, chains bootstrap each other into independence —  
 forming an `unstoppable` web of utility and security. 
